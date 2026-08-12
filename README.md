@@ -4,7 +4,9 @@
 ### Software Engineer | AI & Machine Learning Enthusiast
 *Building intelligent solutions and elegant software architectures.*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Passionate+about+Artificial+Intelligence;Building+Scalable+Backend+Systems;Crafting+Responsive+Web+Solutions)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Passionate+about+Artificial+Intelligence;Building+Scalable+Backend+Systems;Crafting+Responsive+Web+Solutions" alt="Typing SVG" />
+
+<br>
 
 <p align="center">
   <a href="mailto:stharishanker2006@gmail.com">
