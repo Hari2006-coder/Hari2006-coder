@@ -58,10 +58,10 @@ I am a passionate developer with a strong focus on building **AI-integrated appl
 
 <div align="center">
   <a href="https://github.com/Hari2006-coder">
-    <img height="180em" src="https://readme-stats-api.vercel.app/api?username=Hari2006-coder&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hari2006-coder&theme=dracula" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Hari2006-coder">
-    <img height="180em" src="https://readme-stats-api.vercel.app/api/top-langs/?username=Hari2006-coder&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hari2006-coder&theme=dracula" alt="Top Languages" />
   </a>
 </div>
 
@@ -74,14 +74,6 @@ I am a passionate developer with a strong focus on building **AI-integrated appl
 </div>
 
 ---
-
-## 🏆 Open Source Contributions & Achievements
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hari2006-coder&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Hari's Trophies" />
-  </a>
-</div>
 
 <br>
 
