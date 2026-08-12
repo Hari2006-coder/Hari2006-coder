@@ -58,10 +58,10 @@ I am a passionate developer with a strong focus on building **AI-integrated appl
 
 <div align="center">
   <a href="https://github.com/Hari2006-coder">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hari2006-coder&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" />
+    <img height="180em" src="https://readme-stats-api.vercel.app/api?username=Hari2006-coder&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Hari2006-coder">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari2006-coder&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" />
+    <img height="180em" src="https://readme-stats-api.vercel.app/api/top-langs/?username=Hari2006-coder&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
 </div>
 
@@ -69,7 +69,7 @@ I am a passionate developer with a strong focus on building **AI-integrated appl
 
 <div align="center">
   <a href="https://github.com/Hari2006-coder">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hari2006-coder&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Hari2006-coder&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </div>
 
